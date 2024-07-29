@@ -32,6 +32,10 @@ export default function Home() {
     router.push("/challenges/2-ciego#1");
   }
 
+  if (!isCompleted) {
+    return <></>;
+  }
+
   return isCompleted && isChallengeCompleted(4) ? (
     <main className="h-full w-full flex">
       <Aside />
