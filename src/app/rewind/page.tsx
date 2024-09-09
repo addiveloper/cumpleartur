@@ -110,7 +110,7 @@ export default function RewindPage() {
                     <span className="text-yellow-500"></span>
                   </div>
                   <p className="opacity-80 text-sm mt-2 inline-flex flex-col">
-                    papucontraseña: papupreparate.2025{" "}
+                    papucontraseña: se acabó el time papu :v{" "}
                     <span className="mt-2">
                       █▬█?????██▬██▄▌ █▬██▬█ ?????▐▅▚ ▄▌▐▅▚ ▐𝟯█▬███▬██▄▌??????
                       █▬██▬█ ▐▅▚ ▄▌▐▅▚?????▐𝟯█▬███▬██▄▌ █▬██▬█????? ▐▅▚
